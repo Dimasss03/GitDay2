@@ -7,4 +7,6 @@ public class HomePage {
     // page one
 
     // page two
+
+    // page three
 }
